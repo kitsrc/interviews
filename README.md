@@ -11,7 +11,7 @@
 
 ## 其他语言版本
 
-- [English](./README.md)
+- [English](./README-en.md)
 
 ## 目录
 - [在线练习](#在线练习)
