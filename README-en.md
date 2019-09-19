@@ -9,7 +9,7 @@
 
 ## Translations
 
-- [简体中文](./README-zh-cn.md)
+- [简体中文](./README.md)
 
 ## Table of Contents
 - [YouTube](#youtube)
